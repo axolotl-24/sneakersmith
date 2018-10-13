@@ -110,6 +110,12 @@ h4{
 .innerImgBox{
   max-width: 350px;
 }
+<<<<<<< HEAD
+div#navBar {
+  height: 100px;
+  background-color: purple;
+}
+=======
 
 .lists-containers {
   width: 100%;
@@ -118,3 +124,4 @@ h4{
   justify-content: center;
   align-items: center;
 }
+>>>>>>> master

@@ -256,6 +256,7 @@ class App extends Component {
 
     return (
       <div>
+        <Navigation />
         <nav>
           <button>login</button>
           <button onClick={this.togglePopup}>post</button>
