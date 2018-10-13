@@ -72,3 +72,7 @@ h4{
 .innerImgBox{
   max-width: 350px;
 }
+div#navBar {
+  height: 100px;
+  background-color: purple;
+}
